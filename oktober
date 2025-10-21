@@ -1,40 +1,12 @@
 {
-  "tahubulat500an-ux-001": {
-    "hwid": "a5600a5a3c14ba7091c9", 
-    "active": true,
-    "expires": "2026-10-31"
-  },
-  "wedangjeruk-ux-002": {
+  "kesetkotor-ux-001": {
     "hwid": "a5600a5a3c14ba7091c9",
     "active": true,
     "expires": "2026-12-31"
   },
-  "tahusain-ux-001": {
-    "hwid": "a5600a5a3c14ba7091c9",
-    "active": true,
-    "expires": "2026-10-31"
-  },
-  "elehheleh-ux-002": {
-    "hwid": "PUT_HWID_2",
-    "active": true,
-    "expires": "2026-12-31"
-  },
-  "davidganteng-ux-002": {
-    "hwid": "PUT_HWID_2",
-    "active": true,
-    "expires": "2026-12-31"
-  },
   "inggasafian15-ux-002": {
     "hwid": "PUT_HWID_2",
     "active": true,
     "expires": "2026-12-31"
-  },
-  "inggasafian15-ux-002": {
-    "hwid": "PUT_HWID_2",
-    "active": true,
-    "expires": "2026-12-31"
-  },
-  "inggasafian15-ux-002": {
-    "hwid": "PUT_HWID_2",
-    "active": true,
-    "expires": "2026-12-31"
+  }
+}
