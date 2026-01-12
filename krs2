@@ -1,0 +1,12 @@
+{
+  "ttqudatobrut-ux-001": {
+    "hwid": "92f8427349a2843ae6fa",
+    "active": true,
+    "expires": "2026-12-31"
+  },
+  "tetetanto-ux-002": {
+    "hwid": "PUT_HWID_2",
+    "active": true,
+    "expires": "2026-12-31"
+  }
+}
